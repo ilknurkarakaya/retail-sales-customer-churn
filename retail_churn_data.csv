@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Region,ContractType,TotalPurchases,LastPurchaseAmount,Churn
+C001,Female,28,East,Month-to-month,8,95.40,Yes
+C002,Male,45,West,One year,23,120.00,No
+C003,Female,35,North,Month-to-month,10,88.00,Yes
+C004,Male,50,South,Two year,34,210.10,No
+C005,Female,41,East,One year,12,98.50,No
+C006,Male,30,North,Month-to-month,5,45.20,Yes
+C007,Female,27,West,Month-to-month,9,65.00,Yes
+C008,Male,39,South,One year,18,130.00,No
+C009,Female,33,East,Two year,22,150.00,No
+C010,Male,44,North,Month-to-month,6,70.00,Yes
